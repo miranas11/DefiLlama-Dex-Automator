@@ -1,4 +1,4 @@
-# Demo Project
+# DefiLlama Dex Automator
 
 This is a simple node project that uses pupetter to fill some details on a DEX on https://swap.defillama.com/
 Node Version - 18.16.0
