@@ -6,7 +6,7 @@ Puppeteer Version - ^20.8.2
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/my-node-project.git`
+1. Clone the repository: `git clone https://github.com/miranas11/PuppetterDemo`
 2. Navigate to the project directory: `cd my-node-project`
 3. Install dependencies: `npm install`
 
