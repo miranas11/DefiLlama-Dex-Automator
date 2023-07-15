@@ -18,12 +18,14 @@ Puppeteer Version - ^20.8.2
 
 This project contains two main files
 
-## DeFiLlama Class
+### DeFiLlama Class
 
 DefiLlama.js which contains the Puppetter automation script for interacting with https://swap.defillama.com/
 
-### Constructor
+#### Constructor
 
 constructor()
+
 Initializes the DeFiLlama instance.
+
 Sets the browser and page properties to null.
