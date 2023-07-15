@@ -65,3 +65,9 @@ Returns: A promise that resolves when the form filling is complete.
 Executes the automation script.
 
 Returns: A promise that resolves when the script execution is complete.
+
+### Index.js
+
+This file imports the DefiLlama class and creates a object from it.
+
+It then runs the run() method of the class.
