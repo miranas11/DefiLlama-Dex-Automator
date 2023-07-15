@@ -29,3 +29,25 @@ DefiLlama.js which contains the Puppetter automation script for interacting with
 Initializes the DeFiLlama instance.
 
 Sets the browser and page properties to null.
+
+#### Methods
+
+`delay(ms: number): Promise<void>`
+
+Delays the execution for the specified number of milliseconds.
+
+Returns: A promise that resolves after the delay.
+
+`init(): Promise<void>`
+
+Initializes the Puppeteer browser and page.
+
+Launches a new Puppeteer browser instance with the specified options.
+
+Returns: A promise that resolves when the initialization is complete.
+
+`goToPage(url: string): Promise<void>`
+
+Navigates the Puppeteer page to the specified URL.
+
+Returns: A promise that resolves when the page navigation is complete.
