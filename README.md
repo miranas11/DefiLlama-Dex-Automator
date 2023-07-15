@@ -51,3 +51,17 @@ Returns: A promise that resolves when the initialization is complete.
 Navigates the Puppeteer page to the specified URL.
 
 Returns: A promise that resolves when the page navigation is complete.
+
+`fillForm(): Promise<void>`
+
+Fills out the form on the DeFiLlama page.
+
+Selects the desired chain, sets the sell value, chooses the sell and buy currencies, and selects the second best route.
+
+Returns: A promise that resolves when the form filling is complete.
+
+`run(): Promise<void>`
+
+Executes the automation script.
+
+Returns: A promise that resolves when the script execution is complete.
