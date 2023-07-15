@@ -6,7 +6,7 @@ Puppeteer Version - ^20.8.2
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/miranas11/PuppetterDemo`
+1. Clone the repository: `git clone https://github.com/miranas11/DefiLlama-Dex-Automator`
 2. Navigate to the project directory: `cd project-location`
 3. Install dependencies: `npm install`
 
