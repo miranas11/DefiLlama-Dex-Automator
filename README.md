@@ -24,8 +24,7 @@ DefiLlama.js which contains the Puppetter automation script for interacting with
 
 #### Constructor
 
-'constructor()'
-
+`constructor()`
 Initializes the DeFiLlama instance.
 
 Sets the browser and page properties to null.
